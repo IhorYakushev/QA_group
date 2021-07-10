@@ -1,27 +1,27 @@
-Summary
+Summary:
 
-Project
+Project:
 
-Component
+Component:
 
-Version
+Version:
 
-Severity
+Severity:
 
-Priority
+Priority:
 
-Status
+Status:
 
-Author
+Author:
 
-Assigned to
+Assigned to:
 
-Environment
+Environment:
 
-Steps to Reproduce
+Steps to Reproduce:
 
-Result
+Result:
 
-Expected Result
+Expected Result:
 
-Attachment
+Attachment:
