@@ -20,7 +20,7 @@ Environment
 
 Steps to Reproduce
 
-Result
+Actual Result
 
 Expected Result
 
